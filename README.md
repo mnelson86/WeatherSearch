@@ -2,7 +2,8 @@
 React App that displays the current weather of multiple cities in a list as well as an 8 day forecast. Mobile friendly. <br />
 Default Search is for Hartford CT, the user can simply press the Search Button to have it added to the list of cities to examine the weather of. Any other city or Zip code can be searched as well in the search bar. Once searched, the user should click the city as it appears in the list to access it weather data.
 ## Deployed Site URL
-https://weather-search-322115.ue.r.appspot.com/
+https://weather-search-322115.ue.r.appspot.com/ <br />
+Deployed via Google Cloud Services
 ## Install From GitHub
 npm i from terminal to install dependencies <br />
 npm start to run app locally <br />
