@@ -17,4 +17,3 @@ React pre-filled calls to its default image (the spinning React Logo) were not c
 ## Author Information
 Author: Matthew Nelson <br />
 GitHub Username: mnelson86 <br />
-Email: matthew.p.nelson86@gmail.com
