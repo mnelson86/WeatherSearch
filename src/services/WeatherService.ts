@@ -3,7 +3,7 @@ import {Weather, WeatherLocation} from '../model/Weather';
 
 
 // key to be removed before GitHub
-const keyQuery = `appid=c06e26fb78379375d02dba5f18c0f524`
+//const keyQuery = `appid=empty`
 const server = 'https://api.openweathermap.org/data/2.5';
 
 //api calls and error messages in case of failure
