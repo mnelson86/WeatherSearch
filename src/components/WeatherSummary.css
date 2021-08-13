@@ -1,0 +1,8 @@
+
+
+#resultsTable {
+  overflow: auto;
+  text-align: left;
+  background-color:rgba(140,190,214, 0.05);
+  border-radius: 5px;
+}
